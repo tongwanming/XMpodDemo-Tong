@@ -10,6 +10,8 @@
 #endif
 #endif
 
+#import "ChangetxtToVoinceManager.h"
+#import "loadXMLData.h"
 #import "RJson.h"
 
 FOUNDATION_EXPORT double XMpodDemo_TongVersionNumber;

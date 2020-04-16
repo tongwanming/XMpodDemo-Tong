@@ -7,17 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00F77956DE9404874AE34B0B71F8E808 /* RJson.m in Sources */ = {isa = PBXBuildFile; fileRef = 16EEEA2373DD1EF12F1CB43CFA311349 /* RJson.m */; };
+		2558A015A156A73CE19EE03BB0941E97 /* RJson.m in Sources */ = {isa = PBXBuildFile; fileRef = C0F37A228572C4FA436960326E883797 /* RJson.m */; };
 		2C90A947B7400E35FCB8B68A6C0943B6 /* Pods-XMpodDemo-Tong_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A737AE1EE6975C9F0C3F353E883D66B4 /* Pods-XMpodDemo-Tong_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		37E470CF76F824019656BFE94779B4D9 /* RJson.h in Headers */ = {isa = PBXBuildFile; fileRef = FEA97D7B3BFFCF386C32BAABF87A809B /* RJson.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		406A1A0467EBBA194C3E5ED285CFDE4F /* XMpodDemo-Tong-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1EE5C6D47D10FA14B1604A3DCA3FB41F /* XMpodDemo-Tong-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		436033F6219F3533E8F5B8194FC86DAF /* XMpodDemo-Tong-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7A140CC77858971BB3DD7FA8EEB9D785 /* XMpodDemo-Tong-dummy.m */; };
+		4D2B5A98D090F5957F2143C1363B123B /* RJson.h in Headers */ = {isa = PBXBuildFile; fileRef = D21C5F08AD51FA9F8D0E731B2ADC6440 /* RJson.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		697BDA0CC93F099C6687BE10CBBFF763 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		70692B1A8B540223815A875428629CB2 /* ChangetxtToVoinceManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 78A67F8FFB91D2080EA6BA2465D4B2FA /* ChangetxtToVoinceManager.m */; };
 		7F5B4DF37F9AE0E4760F02AC3856D527 /* Pods-XMpodDemo-Tong_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 1143D8D5B2F2A452E94D39AA9FEA8A41 /* Pods-XMpodDemo-Tong_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9E23902B6684930E33395537C41EBD0F /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = EC97A3C7792AC3D88C1E4287D4038877 /* ReplaceMe.m */; };
+		8C3A7C925AC30735B2FF8902662101B4 /* loadXMLData.m in Sources */ = {isa = PBXBuildFile; fileRef = F5160C6665E56CE78E9941BC8E48D5DC /* loadXMLData.m */; };
+		AB2935D94578F6C0A9FD9A3CA27A5CF6 /* loadXMLData.h in Headers */ = {isa = PBXBuildFile; fileRef = 727184071DB6A2E9316D41CA81DF21B3 /* loadXMLData.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AE641BD4121358F7699A671BC7497293 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = C16FF263FCC53FDA3D67347CD8B2D600 /* ReplaceMe.m */; };
+		BE4A82459B410AFD39E3E330F77F8893 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		C3A3C425B3ADD1B6E43C05E4221EDEF3 /* Pods-XMpodDemo-Tong_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 70253EBBF1341A1328A091EE7B4F276A /* Pods-XMpodDemo-Tong_Example-dummy.m */; };
 		CBCEC80F7468F1744E525E5C91FFD1BF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		E6DAE6CF2F605EF5CCBEA498AA61241D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		EACA72D4D322491E0EF9D74B6D26A131 /* XMpodDemo-Tong-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 43CBAD8023B1DDD0B55C63866A1BFC98 /* XMpodDemo-Tong-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		EF1797928EB8D4D9C9413A4784634835 /* XMpodDemo-Tong-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 41CB089928ADB9070C9E77990A401155 /* XMpodDemo-Tong-dummy.m */; };
+		D1FC223097D4A61DE5A17BAF5F7C076A /* ChangetxtToVoinceManager.h in Headers */ = {isa = PBXBuildFile; fileRef = E1A5DAB0357692844F7D1ACEE6DC4991 /* ChangetxtToVoinceManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		FB7D6B34B0CA22B4C0521F91E5DE7B7F /* Pods-XMpodDemo-Tong_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AEAEFF946195009528E301C0DE1A2CA7 /* Pods-XMpodDemo-Tong_Tests-dummy.m */; };
 /* End PBXBuildFile section */
 
@@ -39,57 +43,61 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		09ABD648F00EFD12E101A4D6F1E08B5C /* XMpodDemo-Tong.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "XMpodDemo-Tong.debug.xcconfig"; sourceTree = "<group>"; };
 		1143D8D5B2F2A452E94D39AA9FEA8A41 /* Pods-XMpodDemo-Tong_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XMpodDemo-Tong_Example-umbrella.h"; sourceTree = "<group>"; };
 		13255ECB1C9E80EE42E2B028FD8C8C5E /* Pods-XMpodDemo-Tong_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XMpodDemo-Tong_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		138C1AFA41AB82D4277710E560051769 /* Pods-XMpodDemo-Tong_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XMpodDemo-Tong_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		16EEEA2373DD1EF12F1CB43CFA311349 /* RJson.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RJson.m; path = "XMpodDemo-Tong/Classes/RJson.m"; sourceTree = "<group>"; };
 		16FFAE2097F2B4992D922A69670BB46D /* Pods-XMpodDemo-Tong_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XMpodDemo-Tong_Example.release.xcconfig"; sourceTree = "<group>"; };
-		19B27814B0E92B814EF0C38D5D11A56E /* XMpodDemo-Tong.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "XMpodDemo-Tong.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		2F14AA0D2C6A99F04A532D17006E34B0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		1EE5C6D47D10FA14B1604A3DCA3FB41F /* XMpodDemo-Tong-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMpodDemo-Tong-umbrella.h"; sourceTree = "<group>"; };
 		2FAC723D86BE7C1E46DE0CB80DAA4C8B /* Pods-XMpodDemo-Tong_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XMpodDemo-Tong_Example-Info.plist"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		39BDCC3639C50C4C6B50F4F84B2EB64D /* XMpodDemo-Tong-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMpodDemo-Tong-prefix.pch"; sourceTree = "<group>"; };
 		3D00372B19E1298478106C1B81B7278E /* Pods-XMpodDemo-Tong_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XMpodDemo-Tong_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		41CB089928ADB9070C9E77990A401155 /* XMpodDemo-Tong-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XMpodDemo-Tong-dummy.m"; sourceTree = "<group>"; };
+		403215341798BE1F333138D8E516C925 /* XMpodDemo-Tong.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "XMpodDemo-Tong.modulemap"; sourceTree = "<group>"; };
 		43AD3ED719377AA3D6ECF4B5C13EE07D /* Pods_XMpodDemo_Tong_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XMpodDemo_Tong_Example.framework; path = "Pods-XMpodDemo-Tong_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		43CBAD8023B1DDD0B55C63866A1BFC98 /* XMpodDemo-Tong-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMpodDemo-Tong-umbrella.h"; sourceTree = "<group>"; };
 		5784F3831052987BB59CB460B1889C4E /* Pods-XMpodDemo-Tong_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XMpodDemo-Tong_Example-frameworks.sh"; sourceTree = "<group>"; };
 		587B688B17D920BCF2F8E34E9D1FA8F4 /* Pods-XMpodDemo-Tong_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XMpodDemo-Tong_Tests-Info.plist"; sourceTree = "<group>"; };
+		5C8B04AB10BBC37D6A71D9B1D282E639 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		6495F87722B5C05760F0D7990F914BE9 /* XMpodDemo_Tong.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XMpodDemo_Tong.framework; path = "XMpodDemo-Tong.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64CA2D5A02081CFC87872A6E528EFFD0 /* Pods-XMpodDemo-Tong_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XMpodDemo-Tong_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		6661EF8E7969EED499012983CE6917A2 /* XMpodDemo-Tong-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XMpodDemo-Tong-prefix.pch"; sourceTree = "<group>"; };
-		666886992AE2446DFE8D1B0D03F420FC /* XMpodDemo-Tong-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XMpodDemo-Tong-Info.plist"; sourceTree = "<group>"; };
 		70253EBBF1341A1328A091EE7B4F276A /* Pods-XMpodDemo-Tong_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XMpodDemo-Tong_Example-dummy.m"; sourceTree = "<group>"; };
+		727184071DB6A2E9316D41CA81DF21B3 /* loadXMLData.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = loadXMLData.h; path = "XMpodDemo-Tong/Classes/loadXMLData.h"; sourceTree = "<group>"; };
+		78A67F8FFB91D2080EA6BA2465D4B2FA /* ChangetxtToVoinceManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ChangetxtToVoinceManager.m; path = "XMpodDemo-Tong/Classes/ChangetxtToVoinceManager.m"; sourceTree = "<group>"; };
+		7A140CC77858971BB3DD7FA8EEB9D785 /* XMpodDemo-Tong-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "XMpodDemo-Tong-dummy.m"; sourceTree = "<group>"; };
+		7F5C235B1081FCA532D82A63D911A4E3 /* XMpodDemo-Tong-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XMpodDemo-Tong-Info.plist"; sourceTree = "<group>"; };
+		85925A7A0EDEE869CE00197F310095B4 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		8B45C7A2108E4DA0826F216F1ED7E835 /* XMpodDemo-Tong.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "XMpodDemo-Tong.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		92308D3B09577925C3F6A5DC01647A41 /* Pods-XMpodDemo-Tong_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XMpodDemo-Tong_Tests.modulemap"; sourceTree = "<group>"; };
-		99DD105A88FD6F54A47750DF02FD7BF9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A737AE1EE6975C9F0C3F353E883D66B4 /* Pods-XMpodDemo-Tong_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XMpodDemo-Tong_Tests-umbrella.h"; sourceTree = "<group>"; };
-		A848EB644C6EFFCA06EF73548A34A463 /* XMpodDemo-Tong.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "XMpodDemo-Tong.modulemap"; sourceTree = "<group>"; };
 		AEAEFF946195009528E301C0DE1A2CA7 /* Pods-XMpodDemo-Tong_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XMpodDemo-Tong_Tests-dummy.m"; sourceTree = "<group>"; };
-		B6B07F3B4F590AB58102D650898C7F68 /* XMpodDemo-Tong.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "XMpodDemo-Tong.release.xcconfig"; sourceTree = "<group>"; };
 		BC0AABF7B14E9C5AB7FA7E4FD6F7BB73 /* Pods-XMpodDemo-Tong_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XMpodDemo-Tong_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		C01EF7AB1D27962AB8801679E7AD426C /* Pods-XMpodDemo-Tong_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XMpodDemo-Tong_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		C0F37A228572C4FA436960326E883797 /* RJson.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RJson.m; path = "XMpodDemo-Tong/Classes/RJson.m"; sourceTree = "<group>"; };
+		C16FF263FCC53FDA3D67347CD8B2D600 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = "XMpodDemo-Tong/Classes/ReplaceMe.m"; sourceTree = "<group>"; };
 		C8B4B4A0106657C4DDB85F194DF034DC /* Pods-XMpodDemo-Tong_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XMpodDemo-Tong_Example.modulemap"; sourceTree = "<group>"; };
+		D21C5F08AD51FA9F8D0E731B2ADC6440 /* RJson.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RJson.h; path = "XMpodDemo-Tong/Classes/RJson.h"; sourceTree = "<group>"; };
+		D60B405C2CEAA19E701414033ADEF9DE /* XMpodDemo-Tong.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "XMpodDemo-Tong.release.xcconfig"; sourceTree = "<group>"; };
 		D7CDC9E683B45671B86AC2A49C547FFD /* Pods-XMpodDemo-Tong_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XMpodDemo-Tong_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D8E17D6E6D29ACD084F163E05AEB3DCF /* Pods_XMpodDemo_Tong_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XMpodDemo_Tong_Tests.framework; path = "Pods-XMpodDemo-Tong_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EC97A3C7792AC3D88C1E4287D4038877 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = "XMpodDemo-Tong/Classes/ReplaceMe.m"; sourceTree = "<group>"; };
-		FEA97D7B3BFFCF386C32BAABF87A809B /* RJson.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RJson.h; path = "XMpodDemo-Tong/Classes/RJson.h"; sourceTree = "<group>"; };
+		E1A5DAB0357692844F7D1ACEE6DC4991 /* ChangetxtToVoinceManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ChangetxtToVoinceManager.h; path = "XMpodDemo-Tong/Classes/ChangetxtToVoinceManager.h"; sourceTree = "<group>"; };
+		F5160C6665E56CE78E9941BC8E48D5DC /* loadXMLData.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = loadXMLData.m; path = "XMpodDemo-Tong/Classes/loadXMLData.m"; sourceTree = "<group>"; };
+		FDC7A2A14836C82E8076088C6B363EDA /* XMpodDemo-Tong.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "XMpodDemo-Tong.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		75BC8B4007E90C5345A9338720D2F9CC /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				E6DAE6CF2F605EF5CCBEA498AA61241D /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		9F4EFF2F2F65A7F03C862A42F99C844C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				697BDA0CC93F099C6687BE10CBBFF763 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B38DBB7407896A354D531DA90C67BC2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BE4A82459B410AFD39E3E330F77F8893 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -113,12 +121,14 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		15D0AABCFE654B283C252E0B6C8DE7E4 /* Development Pods */ = {
+		2431EC6FD11353B2AD5399DD0CBF7AD0 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				35FE5796CFB5108EF3D389BD9A05D252 /* XMpodDemo-Tong */,
+				85925A7A0EDEE869CE00197F310095B4 /* LICENSE */,
+				5C8B04AB10BBC37D6A71D9B1D282E639 /* README.md */,
+				8B45C7A2108E4DA0826F216F1ED7E835 /* XMpodDemo-Tong.podspec */,
 			);
-			name = "Development Pods";
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		28ECD93CCBF89734BAD04E1D8C63C347 /* Pods-XMpodDemo-Tong_Example */ = {
@@ -138,42 +148,29 @@
 			path = "Target Support Files/Pods-XMpodDemo-Tong_Example";
 			sourceTree = "<group>";
 		};
-		35FE5796CFB5108EF3D389BD9A05D252 /* XMpodDemo-Tong */ = {
+		5E2875134B5A70890C88E300B56AB292 /* XMpodDemo-Tong */ = {
 			isa = PBXGroup;
 			children = (
-				EC97A3C7792AC3D88C1E4287D4038877 /* ReplaceMe.m */,
-				FEA97D7B3BFFCF386C32BAABF87A809B /* RJson.h */,
-				16EEEA2373DD1EF12F1CB43CFA311349 /* RJson.m */,
-				837A360237A82BD07E3A859613AF778C /* Pod */,
-				8CCB0B25AC6A63C9F21B40A0574837BD /* Support Files */,
+				E1A5DAB0357692844F7D1ACEE6DC4991 /* ChangetxtToVoinceManager.h */,
+				78A67F8FFB91D2080EA6BA2465D4B2FA /* ChangetxtToVoinceManager.m */,
+				727184071DB6A2E9316D41CA81DF21B3 /* loadXMLData.h */,
+				F5160C6665E56CE78E9941BC8E48D5DC /* loadXMLData.m */,
+				C16FF263FCC53FDA3D67347CD8B2D600 /* ReplaceMe.m */,
+				D21C5F08AD51FA9F8D0E731B2ADC6440 /* RJson.h */,
+				C0F37A228572C4FA436960326E883797 /* RJson.m */,
+				2431EC6FD11353B2AD5399DD0CBF7AD0 /* Pod */,
+				F8B2C9B085368F7DA728E8A171BD27BA /* Support Files */,
 			);
 			name = "XMpodDemo-Tong";
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		837A360237A82BD07E3A859613AF778C /* Pod */ = {
+		8E4E45FF5E38F96FEB11C1E48236EED9 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				2F14AA0D2C6A99F04A532D17006E34B0 /* LICENSE */,
-				99DD105A88FD6F54A47750DF02FD7BF9 /* README.md */,
-				19B27814B0E92B814EF0C38D5D11A56E /* XMpodDemo-Tong.podspec */,
+				5E2875134B5A70890C88E300B56AB292 /* XMpodDemo-Tong */,
 			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
-		8CCB0B25AC6A63C9F21B40A0574837BD /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				A848EB644C6EFFCA06EF73548A34A463 /* XMpodDemo-Tong.modulemap */,
-				41CB089928ADB9070C9E77990A401155 /* XMpodDemo-Tong-dummy.m */,
-				666886992AE2446DFE8D1B0D03F420FC /* XMpodDemo-Tong-Info.plist */,
-				6661EF8E7969EED499012983CE6917A2 /* XMpodDemo-Tong-prefix.pch */,
-				43CBAD8023B1DDD0B55C63866A1BFC98 /* XMpodDemo-Tong-umbrella.h */,
-				09ABD648F00EFD12E101A4D6F1E08B5C /* XMpodDemo-Tong.debug.xcconfig */,
-				B6B07F3B4F590AB58102D650898C7F68 /* XMpodDemo-Tong.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/XMpodDemo-Tong";
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -188,7 +185,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				15D0AABCFE654B283C252E0B6C8DE7E4 /* Development Pods */,
+				8E4E45FF5E38F96FEB11C1E48236EED9 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				E6782BB23C1921FD6EE38C75E6E8BA78 /* Products */,
 				104758DAC30832FF388DF553A490B5D1 /* Targets Support Files */,
@@ -229,18 +226,24 @@
 			path = "Target Support Files/Pods-XMpodDemo-Tong_Tests";
 			sourceTree = "<group>";
 		};
+		F8B2C9B085368F7DA728E8A171BD27BA /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				403215341798BE1F333138D8E516C925 /* XMpodDemo-Tong.modulemap */,
+				7A140CC77858971BB3DD7FA8EEB9D785 /* XMpodDemo-Tong-dummy.m */,
+				7F5C235B1081FCA532D82A63D911A4E3 /* XMpodDemo-Tong-Info.plist */,
+				39BDCC3639C50C4C6B50F4F84B2EB64D /* XMpodDemo-Tong-prefix.pch */,
+				1EE5C6D47D10FA14B1604A3DCA3FB41F /* XMpodDemo-Tong-umbrella.h */,
+				FDC7A2A14836C82E8076088C6B363EDA /* XMpodDemo-Tong.debug.xcconfig */,
+				D60B405C2CEAA19E701414033ADEF9DE /* XMpodDemo-Tong.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/XMpodDemo-Tong";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		475BB4CF6584C04EEB119BC6E259AA60 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				37E470CF76F824019656BFE94779B4D9 /* RJson.h in Headers */,
-				EACA72D4D322491E0EF9D74B6D26A131 /* XMpodDemo-Tong-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		5A501136EE4C6D5341322DDDBADD60C0 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -254,6 +257,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C90A947B7400E35FCB8B68A6C0943B6 /* Pods-XMpodDemo-Tong_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C43836310E5D8528E4CE97C364D326D5 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D1FC223097D4A61DE5A17BAF5F7C076A /* ChangetxtToVoinceManager.h in Headers */,
+				AB2935D94578F6C0A9FD9A3CA27A5CF6 /* loadXMLData.h in Headers */,
+				4D2B5A98D090F5957F2143C1363B123B /* RJson.h in Headers */,
+				406A1A0467EBBA194C3E5ED285CFDE4F /* XMpodDemo-Tong-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,12 +295,12 @@
 		};
 		60D38A1579BAA9177B9723AD9A6B0EEC /* XMpodDemo-Tong */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 55839D52605EC47D4B86C62A96A3BC6F /* Build configuration list for PBXNativeTarget "XMpodDemo-Tong" */;
+			buildConfigurationList = 22D028AB4A1DDEA302818257CC3B1ABC /* Build configuration list for PBXNativeTarget "XMpodDemo-Tong" */;
 			buildPhases = (
-				475BB4CF6584C04EEB119BC6E259AA60 /* Headers */,
-				CF869FF6284376F317E51773F781D430 /* Sources */,
-				75BC8B4007E90C5345A9338720D2F9CC /* Frameworks */,
-				D10670D344A8AF22E527E79BBB41E7F5 /* Resources */,
+				C43836310E5D8528E4CE97C364D326D5 /* Headers */,
+				EB0D9686A762B7746D122B3A5B410C5F /* Sources */,
+				B38DBB7407896A354D531DA90C67BC2B /* Frameworks */,
+				7A51DF79AD37EEBD3AC9A3DB2347077B /* Resources */,
 			);
 			buildRules = (
 			);
@@ -346,6 +360,13 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		7A51DF79AD37EEBD3AC9A3DB2347077B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		A9848D017010030855439B90A29BF395 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -354,13 +375,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		C01304500531B520944CB21FEA466E5E /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D10670D344A8AF22E527E79BBB41E7F5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -386,13 +400,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CF869FF6284376F317E51773F781D430 /* Sources */ = {
+		EB0D9686A762B7746D122B3A5B410C5F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E23902B6684930E33395537C41EBD0F /* ReplaceMe.m in Sources */,
-				00F77956DE9404874AE34B0B71F8E808 /* RJson.m in Sources */,
-				EF1797928EB8D4D9C9413A4784634835 /* XMpodDemo-Tong-dummy.m in Sources */,
+				70692B1A8B540223815A875428629CB2 /* ChangetxtToVoinceManager.m in Sources */,
+				8C3A7C925AC30735B2FF8902662101B4 /* loadXMLData.m in Sources */,
+				AE641BD4121358F7699A671BC7497293 /* ReplaceMe.m in Sources */,
+				2558A015A156A73CE19EE03BB0941E97 /* RJson.m in Sources */,
+				436033F6219F3533E8F5B8194FC86DAF /* XMpodDemo-Tong-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,9 +430,9 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		24137B6F7932AE45376AC200AA2067C8 /* Debug */ = {
+		20072217896BCFC8F746AA1200B8E5E1 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 09ABD648F00EFD12E101A4D6F1E08B5C /* XMpodDemo-Tong.debug.xcconfig */;
+			baseConfigurationReference = FDC7A2A14836C82E8076088C6B363EDA /* XMpodDemo-Tong.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -572,38 +588,6 @@
 			};
 			name = Release;
 		};
-		7533E7C13262754B78360E7F1562429C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B6B07F3B4F590AB58102D650898C7F68 /* XMpodDemo-Tong.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/XMpodDemo-Tong/XMpodDemo-Tong-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/XMpodDemo-Tong/XMpodDemo-Tong-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/XMpodDemo-Tong/XMpodDemo-Tong.modulemap";
-				PRODUCT_MODULE_NAME = XMpodDemo_Tong;
-				PRODUCT_NAME = XMpodDemo_Tong;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		7EF7227D9B20A1D549000096ACCB23D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -735,9 +719,50 @@
 			};
 			name = Release;
 		};
+		ABB1B253508499714AF560F599A8EFB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D60B405C2CEAA19E701414033ADEF9DE /* XMpodDemo-Tong.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/XMpodDemo-Tong/XMpodDemo-Tong-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/XMpodDemo-Tong/XMpodDemo-Tong-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/XMpodDemo-Tong/XMpodDemo-Tong.modulemap";
+				PRODUCT_MODULE_NAME = XMpodDemo_Tong;
+				PRODUCT_NAME = XMpodDemo_Tong;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		22D028AB4A1DDEA302818257CC3B1ABC /* Build configuration list for PBXNativeTarget "XMpodDemo-Tong" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				20072217896BCFC8F746AA1200B8E5E1 /* Debug */,
+				ABB1B253508499714AF560F599A8EFB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		4195D08AABDC41872E74CAD555F53901 /* Build configuration list for PBXNativeTarget "Pods-XMpodDemo-Tong_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -761,15 +786,6 @@
 			buildConfigurations = (
 				7EF7227D9B20A1D549000096ACCB23D7 /* Debug */,
 				4BE66A09A74FD25164AAB3C2645B9B93 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		55839D52605EC47D4B86C62A96A3BC6F /* Build configuration list for PBXNativeTarget "XMpodDemo-Tong" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				24137B6F7932AE45376AC200AA2067C8 /* Debug */,
-				7533E7C13262754B78360E7F1562429C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
