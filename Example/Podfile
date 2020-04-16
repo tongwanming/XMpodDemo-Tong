@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XMpodDemo-Tong_Example' do
+  pod 'XMpodDemo-Tong', :path => '../'
+
+  target 'XMpodDemo-Tong_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
