@@ -1,0 +1,6 @@
+framework module Pods_XMpodDemo_Tong_Example {
+  umbrella header "Pods-XMpodDemo-Tong_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

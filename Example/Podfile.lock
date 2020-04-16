@@ -1,0 +1,16 @@
+PODS:
+  - XMpodDemo-Tong (0.1.0)
+
+DEPENDENCIES:
+  - XMpodDemo-Tong (from `../`)
+
+EXTERNAL SOURCES:
+  XMpodDemo-Tong:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XMpodDemo-Tong: 103e0a88f527686cf02fc6aa67e9c656a24aec5a
+
+PODFILE CHECKSUM: ed5b9b8d07f069a838bc7cb3f5aeb919c171c6da
+
+COCOAPODS: 1.9.1
